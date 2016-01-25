@@ -1,0 +1,3 @@
+DOMINION TEXT LOG - 1/25/2016
+
+I created the adventurer, feast, remodel, mine, and council_hall card functions.
